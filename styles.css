@@ -15,12 +15,12 @@ font-family: 'Montserrat', sans-serif;
 }
 .container2 img{
     width: 230px;
-    height: 375px;
+    height: 380px;
 }
 .container3{  
     justify-content: center;
     width: 230px;
-    height: 375px;
+    height: 340px;
    
     padding-left: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -50,10 +50,13 @@ font-family: 'Montserrat', sans-serif;
  list-style: none;
  display: flex;
  text-align: center;
+ 
 }
 .actual-price{
 color:hsl(228, 12%, 48%) ;
 text-decoration-line: line-through;
+font-size: smaller;
+
 
 }
 h2{
