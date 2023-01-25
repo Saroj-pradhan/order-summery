@@ -9,18 +9,18 @@ font-family: 'Montserrat', sans-serif;
 .container{
     
     display: flex;
-    margin: 100px 400px;
+    margin: 10px 400px;
     background-color: white;
-   
+    
 }
 .container2 img{
-    width: 230px;
+   width: 230px; 
     height: 380px;
 }
 .container3{  
     justify-content: center;
-    width: 230px;
-    height: 340px;
+    max-width: 230px;
+    max-height: 340px;
    
     padding-left: 20px;
     font-family: 'Montserrat', sans-serif;
